@@ -1,2 +1,5 @@
-https://github.com/JLISPCAD/UPDATELISP/raw/refs/heads/main/JLSP.zip.001
-https://github.com/JLISPCAD/UPDATELISP/raw/refs/heads/main/JLSP.zip.002
+https://github.com/JLISPCAD/UPDATELISP/raw/refs/heads/main/new.zip.001
+https://github.com/JLISPCAD/UPDATELISP/raw/refs/heads/main/new.zip.002
+https://github.com/JLISPCAD/UPDATELISP/raw/refs/heads/main/new.zip.003
+https://github.com/JLISPCAD/UPDATELISP/raw/refs/heads/main/new.zip.004
+https://github.com/JLISPCAD/UPDATELISP/raw/refs/heads/main/new.zip.005

@@ -1,3 +1,0 @@
-sentinel.zip.001
-sentinel.zip.002
-sentinel.zip.003

@@ -1,3 +1,0 @@
-jlisp.zip.001
-jlisp.zip.002
-jlisp.zip.003

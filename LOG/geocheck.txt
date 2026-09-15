@@ -1,0 +1,246 @@
+Checksum: 862f56bbc92cdd199a199a4179aecb7df7fb8864464ebb93bfc64dd6314b9d7c
+Caminho: C:\backup_jlisp\geo\atualizar2.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 3421d310814ac88bae152b7367c68984afb108233c73a390bf67dc99ec63b021
+Caminho: C:\backup_jlisp\geo\crop.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: d45fc089dcc78a369e9da5deb6f393bb5f557d2614d815230d9645a3898cce6c
+Caminho: C:\backup_jlisp\geo\cui.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 227f9fd2012bb2155ee5ad0a56db8503f2577dcb2119e86889ff44bb33941d0e
+Caminho: C:\backup_jlisp\geo\CVS2CAD.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 0a6809d8c71c832a6cbc553c3a5162749037434433bbd522a7a3be39199ff222
+Caminho: C:\backup_jlisp\geo\CVS2CAD2.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: a61332885123b736eb4df1987546a65bb74e1044685e3712db262ac982239036
+Caminho: C:\backup_jlisp\geo\dem.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: a7e4a93fe48da726c948f90cf446330ac1c3cabfc6e721dda7b399133baf295e
+Caminho: C:\backup_jlisp\geo\dem2.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: b388cc158148ddd6e21271f2a9a5e58ce2d041bf0ff15c2a2b2a55220da5a7f9
+Caminho: C:\backup_jlisp\geo\ERASE.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 6888ceba2309c9fb11e7471cd6cc81fb95c501e0438912d38ca73ab89bcd584a
+Caminho: C:\backup_jlisp\geo\ESHP.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: bbd02ef4b187001c63897e1d93b3bf204b608757712f64c6b7605774e755a602
+Caminho: C:\backup_jlisp\geo\ezexport.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: d199ba176a6a814b6175d8a180380808f72ecd022cfc755fdcdfe915998f7ea6
+Caminho: C:\backup_jlisp\geo\fix.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: cd009557cf43723acc954c6a6a47bf0dc2459bed7fd490911675b6f58b1a71a2
+Caminho: C:\backup_jlisp\geo\FOTO_CONVERTER.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 04d9230bab437cb19f0471bdc078f978575259018eff165b1d6bf5b4ccac12bf
+Caminho: C:\backup_jlisp\geo\GERAMEMORIAL.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 6da43d83083b0bb7be4b35386846ce8611cce8819a1dfae9d6401b737bd595af
+Caminho: C:\backup_jlisp\geo\gerarmodelo.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 0c603d4d7f3fb58a2d62a0ddfc81e2e6351830c9bb47976f1d1ffb63467b5f65
+Caminho: C:\backup_jlisp\geo\IMGD.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: cd1e2e0d99e0aad1f7c2950958ba241f6c62228c6f3bc8bd7a8eceda42d6b25c
+Caminho: C:\backup_jlisp\geo\jlisp.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 3421d310814ac88bae152b7367c68984afb108233c73a390bf67dc99ec63b021
+Caminho: C:\backup_jlisp\geo\KML2CAD.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: e6c251dee4fa4e0778afb23f3dc48db4c782196aa6c1e7943b9af662ea838351
+Caminho: C:\backup_jlisp\geo\KMLtoSHP.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 0344b1c81e5419347d896e623d0cf7016c38f20e62405197ef57adcedd3467c7
+Caminho: C:\backup_jlisp\geo\landsat8.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: b2e7703b69dd08c8c6205d5ea5800bdb7fe338c1efde2b48f408d2036af7c414
+Caminho: C:\backup_jlisp\geo\lermatricula.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 589a7077035bb7d94f5a8b4bfe170521809475f967b0cb9d259a30d1a08ad135
+Caminho: C:\backup_jlisp\geo\lmat.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 8c392fd97a5ac2b3272efc7eafb2825af8ebe2366d24ca5450dda55f9e60f055
+Caminho: C:\backup_jlisp\geo\ODS2CAD.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 67fd5a628c86aa50024d06efdc010b3e89da1e78f2ca9887b3adfdd6e471ee80
+Caminho: C:\backup_jlisp\geo\ODS_CONVERTER.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: c42f3567e5c60ff48b22d6f45a572d5924afa2473475ebcedb86e9f5f38d345a
+Caminho: C:\backup_jlisp\geo\player.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 2df01536881b7c84cdca8974a0ab1d8d2e7ecc7d4ed3f35f2a4a656d67038698
+Caminho: C:\backup_jlisp\geo\processar_altitude.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 6bebde43ed19164147c01d9720c41e5531977e1fd33000d1666d3635e1f99ef5
+Caminho: C:\backup_jlisp\geo\recmosaico.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 8c392fd97a5ac2b3272efc7eafb2825af8ebe2366d24ca5450dda55f9e60f055
+Caminho: C:\backup_jlisp\geo\reprojetar.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 25c2e1bfaedf61a4b3f217fa0b6c8a57da9b9376c20e51958852f8b7c9aa5453
+Caminho: C:\backup_jlisp\geo\sentinel.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 60430351a482c5ad6027efe04f6274d8cecac5e5a7469e0c7dece2ffc755df30
+Caminho: C:\backup_jlisp\geo\shap2cad.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: a253c88bc1df3ff326bbb723e80505640bcbe6dc61c304add4a7ff6952e2bb91
+Caminho: C:\backup_jlisp\geo\SHP_TO_KML.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 3421d310814ac88bae152b7367c68984afb108233c73a390bf67dc99ec63b021
+Caminho: C:\backup_jlisp\geo\SIGEFV.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 3421d310814ac88bae152b7367c68984afb108233c73a390bf67dc99ec63b021
+Caminho: C:\backup_jlisp\geo\SIGEM.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 60f54d2070004c1c9fc436c7cfde23683327699e93ee7bec995584dc65e0f20a
+Caminho: C:\backup_jlisp\geo\sobre.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: b2e7703b69dd08c8c6205d5ea5800bdb7fe338c1efde2b48f408d2036af7c414
+Caminho: C:\backup_jlisp\geo\SPLITSHP.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: da6ff0bea9edf48b896c3b336d6bdad3f51dbabe3a1ba6d302431d9d6613896b
+Caminho: C:\backup_jlisp\geo\terrap.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: a647c730b1136748f00c2dcd0c6c916626d1006df924df4b61205614b55eeeae
+Caminho: C:\backup_jlisp\geo\terrapa.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: b2e7703b69dd08c8c6205d5ea5800bdb7fe338c1efde2b48f408d2036af7c414
+Caminho: C:\backup_jlisp\geo\toposplit.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: dbaca39ee7bcb15d43a879b17135f6ce8a96eb5c96c15b950690695320b310b7
+Caminho: C:\backup_jlisp\geo\UMT2CAD.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 6c66ef13da05f9b3927f874a2b57cea1af0b77ee9cdc7c45be8c8bc5a02dbcba
+Caminho: C:\backup_jlisp\geo\ut8.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: 6ef8e1b76cb5be5001f92c4cda65a492f00742c7fecb6edce0a3a613830fca2b
+Caminho: C:\backup_jlisp\geo\ut8c.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------
+Checksum: d3fe32935a38f0f9f16d75406247156d01857f60288e39563c7fd45297bfeae3
+Caminho: C:\backup_jlisp\geo\verificar.exe
+
+Arquivos ZIP gerados:
+
+----------------------------------------

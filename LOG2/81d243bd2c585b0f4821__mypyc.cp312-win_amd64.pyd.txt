@@ -1,0 +1,1 @@
+https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/81d243bd2c585b0f4821__mypyc.cp312-win_amd64.zip.001

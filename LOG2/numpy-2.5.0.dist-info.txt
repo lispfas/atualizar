@@ -1,1 +1,0 @@
-https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/numpy-2.5.0.dist-info.zip.001

@@ -1,2 +1,0 @@
-https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/pywin32_system32.zip.001
-https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/win32.zip.001

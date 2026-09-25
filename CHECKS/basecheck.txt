@@ -1,9 +1,0 @@
-b914bec62e2bf2c3d36551513d9917d104c078f8cba2c5da49e50991b2e0aa1c  C:\jlisp\jlisp_instalador.bak.cui
-46b83375ae30a4c92dd84b7909245f9a0220730fb9aa33a90a73a019b30a9de5  C:\jlisp\jlisp_instalador.bak.cuix
-ed9ca010ed5e4c39e244fe89d65e846ed903c2e964b83ee06d523b5ccb2ed4d5  C:\jlisp\jlisp_instalador.cui
-a03b1be715284e0305c75290668c3059471e21a5ed87ba0408fca260888bbdf2  C:\jlisp\jlisp_instalador.cuix
-cd41fef213afb1de08d204b0122e1053826da686335fe6260aa6ed620764f820  C:\jlisp\jlisp_instalador_light.mnr
-6baac01e93d25bf75c3838df45f8d82787cd2aa059a31c9ee1acf08c92eada50  C:\jlisp\JLSP.fas
-6f7744b51d655af468faefcfd9ebed280f923bb4419c9e36ec3172184d3acb2c  C:\jlisp\netapi.exe
-46070d4bf934fb0d4b06d9e2c46e346944e322444900a435d7d9a95e6d7435f5  C:\jlisp\OBRIGADO POR USAR O JLISP.txt
-17ae45bd80ce93ec3ba689fdda98e8534cbb049d24d9c1005cb4a2107ed7f42c  C:\jlisp\processar_temp.scr

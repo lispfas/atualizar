@@ -1,0 +1,1 @@
+https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/numpy.libs.zip.001

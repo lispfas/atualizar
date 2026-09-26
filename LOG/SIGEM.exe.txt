@@ -1,0 +1,3 @@
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/SIGEM.zip.001
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/SIGEM.zip.002
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/SIGEM.zip.003

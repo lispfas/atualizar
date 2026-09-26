@@ -1,0 +1,1 @@
+https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/typing_extensions-4.15.0.dist-info.zip.001

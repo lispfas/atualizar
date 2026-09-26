@@ -1,2 +1,0 @@
-https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/xyzservices-2026.3.0.dist-info.zip.001
-https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/xyzservices-2026.3.0.dist-info.zip.002

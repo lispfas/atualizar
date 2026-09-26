@@ -1,1 +1,0 @@
-https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/rioxarray-0.22.0.dist-info.zip.001

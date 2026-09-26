@@ -1,0 +1,2 @@
+https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/cv2.zip.001
+https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/cv2.zip.002

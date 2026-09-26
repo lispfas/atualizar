@@ -1,0 +1,2 @@
+https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/psycopg_binary-3.3.4.dist-info.zip.001
+https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/psycopg_binary-3.3.4.dist-info.zip.002

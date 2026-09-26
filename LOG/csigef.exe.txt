@@ -1,0 +1,3 @@
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/csigef.zip.001
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/csigef.zip.002
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/csigef.zip.003

@@ -1,0 +1,3 @@
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/IMGD.zip.001
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/IMGD.zip.002
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/IMGD.zip.003

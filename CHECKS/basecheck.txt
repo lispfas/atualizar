@@ -1,0 +1,9 @@
+44a678fdc6f0323bc162d0161c6ee8611724d2892167c4bacf4ba784615d30ca  C:\jlisp\arrumar_barra.lsp
+52de178c1c81e7ca93b23bc0608ad3cc83136821e0424b503d0b0fd00b4d0324  C:\jlisp\jlisp_instalador.cui
+cd41fef213afb1de08d204b0122e1053826da686335fe6260aa6ed620764f820  C:\jlisp\jlisp_instalador_light.mnr
+c05d57460c28a076bac8ed61cc160b62c753700c19e74fc1a08508ee80789944  C:\jlisp\JLSP.fas
+fae3db095b25a1520db00baba2da6020e707a37b5a6b5997b5f4d21bb05793a4  C:\jlisp\MEMOCSV.bak
+1df0ddf9fc538c9e807bea78bf026445b8a6f22abd1dd456e07918b12801cdee  C:\jlisp\netapi.exe
+46070d4bf934fb0d4b06d9e2c46e346944e322444900a435d7d9a95e6d7435f5  C:\jlisp\OBRIGADO POR USAR O JLISP.txt
+17ae45bd80ce93ec3ba689fdda98e8534cbb049d24d9c1005cb4a2107ed7f42c  C:\jlisp\processar_temp.scr
+65228927f5048a493655b061435460d7c466d93395a89f52e0d84601170d2b22  C:\jlisp\resetvar2.lsp

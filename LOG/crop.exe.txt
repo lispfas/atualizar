@@ -1,0 +1,3 @@
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/crop.zip.001
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/crop.zip.002
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/crop.zip.003

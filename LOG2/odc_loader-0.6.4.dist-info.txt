@@ -1,0 +1,1 @@
+https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/odc_loader-0.6.4.dist-info.zip.001

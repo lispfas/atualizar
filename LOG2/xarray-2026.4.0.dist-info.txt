@@ -1,1 +1,0 @@
-https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/xarray-2026.4.0.dist-info.zip.001

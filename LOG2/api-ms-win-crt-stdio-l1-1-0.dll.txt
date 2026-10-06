@@ -1,0 +1,1 @@
+https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/api-ms-win-crt-stdio-l1-1-0.zip.001

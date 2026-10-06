@@ -1,0 +1,2 @@
+https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/mapclassify-2.10.0.dist-info.zip.001
+https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/mapclassify-2.10.0.dist-info.zip.002

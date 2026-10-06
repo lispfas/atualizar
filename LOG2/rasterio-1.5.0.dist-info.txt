@@ -1,0 +1,2 @@
+https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/rasterio-1.5.0.dist-info.zip.001
+https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/rasterio-1.5.0.dist-info.zip.002

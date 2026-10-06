@@ -1,1 +1,0 @@
-https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/psycopg-3.3.4.dist-info.zip.001

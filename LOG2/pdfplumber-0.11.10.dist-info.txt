@@ -1,1 +1,0 @@
-https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/pdfplumber-0.11.10.dist-info.zip.001

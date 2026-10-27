@@ -1,0 +1,1 @@
+https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/reportlab-5.0.1.dist-info.zip.001

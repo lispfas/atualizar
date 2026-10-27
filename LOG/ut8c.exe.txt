@@ -1,0 +1,3 @@
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/ut8c.zip.001
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/ut8c.zip.002
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/ut8c.zip.003

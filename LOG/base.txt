@@ -1,2 +1,0 @@
-https://github.com/lispfas/atualizar/tree/main/ZIPS/BASE/jlisp.zip.001
-https://github.com/lispfas/atualizar/tree/main/ZIPS/BASE/jlisp.zip.002

@@ -1,9 +1,0 @@
-9fe9b11962f4e61b7f89787927f4a85d490e6cbebbd13fef7f30946ef43ec1e3  C:\jlisp\Cartas\dados_cad_21S.txt
-1276b83d1ba9e28dc190bdd9d393888726c075c451b94e6259e9a43178832750  C:\jlisp\Cartas\dados_cad_22S.txt
-f4d0cfe99ccd5ad4b9cd8d34207cdf97c895a1b6df2bb192385f75cf7d95cec3  C:\jlisp\Cartas\indice_topodata.txt
-21961abee008303747fba91a56a5329d9b4210f647d3898b87429546ff946008  C:\jlisp\Cartas\mestre_calibracao.txt
-751f727fcd17c4ff9e5e43b348b2fc0b1fa4a945e57247cf6f322c643b3a861c  C:\jlisp\Cartas\morfologia\DERSUL21.jpg
-ec686c2f3a162f308d649210757fb7be615ed2ef56752ef026a4c595469e236f  C:\jlisp\Cartas\morfologia\HIDROGRAFIA.jpg
-82de06ec1b0003408ce56b7f713cad74340abfd684e2b67e1ddeda07665b8c55  C:\jlisp\Cartas\morfologia\RELEVO.jpg
-36e0cd2143dc77e5db989efd6b463cea422fcf27e1d45ebc6fe5bcb28d8bc73d  C:\jlisp\Cartas\morfologia\SOLOS.jpg
-406dff43ab1eed2c19e4e0060f09cf4507ec66507f940860ddce304a1b50656d  C:\jlisp\Cartas\morfologia\VEGETACAO.jpg

@@ -1,0 +1,1 @@
+https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/fiona-1.10.1.dist-info.zip.001

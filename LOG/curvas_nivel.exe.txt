@@ -1,3 +1,0 @@
-https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/curvas_nivel.zip.001
-https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/curvas_nivel.zip.002
-https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/curvas_nivel.zip.003

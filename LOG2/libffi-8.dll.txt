@@ -1,2 +1,0 @@
-https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/libffi-8.zip.001
-https://github.com/lispfas/atualizar/tree/main/ZIPS/INTERNAL/libffi-8.zip.002

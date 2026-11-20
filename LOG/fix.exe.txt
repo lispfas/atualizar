@@ -1,0 +1,3 @@
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/fix.zip.001
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/fix.zip.002
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/fix.zip.003

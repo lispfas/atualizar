@@ -1,0 +1,2 @@
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/SIGEFV.zip.001
+https://github.com/lispfas/atualizar/tree/main/ZIPS/GEO/SIGEFV.zip.002
